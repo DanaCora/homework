@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>貓咪網站</title>
+</head>
+<body style="background-color:beige">
+	<style>
+		a{
+			text-decoration: none;
+		}
+		#cutttt{
+			color:red;
+		}
+	</style>
+	<h1><b>《貓咪的介紹》</b></h1>
+	<span>
+	<img src="https://images2.gamme.com.tw/news2/2018/32/55/q5qTpaSXkqWZqw.jpg" width="400" height="400" border="3" title="一隻笑容尷尬的貓">
+	<img src="https://images2.gamme.com.tw/news2/2015/15/24/p56Zo6GdkaOW.jpg" width="500" height="400" border="3" title="笑得很溫柔的貓">
+	<img src="http://p1.pstatp.com/large/3b1500022ddc98738457" width="300" height="400" border="3" title="一隻愛笑的貓">
+	</span>
+	<ul>
+		<h1>
+		<li><a href="#cut">《品種》</a></li>
+		</h1>
+	<h2>
+	<pre><a href="#1"> 橘貓</a></pre>
+	<pre><a href="#2"> 狸花貓</a></pre>
+	<pre><a href="#3"> 奶牛貓</a></pre>
+	<pre><a href="#4"> 黑貓</a></pre>
+	<pre><a href="#5"> 白貓</a></pre>
+	<pre><a href="#6"> 三花貓</a></pre>
+	<pre><a href="#7"> 暹羅猫</a></pre>
+	<pre><a href="#8"> 布偶貓</a></pre>
+	<pre><a href="#9"> 蘇格蘭摺耳貓</a></pre>
+	<pre><a href="#10"> 英國短毛貓</pre>
+	<pre><a href="#11"> 英國短毛加白貓</a></pre>
+	<pre><a href="#12"> 美國短毛貓</a></pre>
+	<pre><a href="#13"> 美國短毛加白貓</a></pre>
+	<pre><a href="#14"> 波斯貓</a></pre>
+	<pre><a href="#15"> 俄羅斯藍貓</a></pre>
+	<pre><a href="#16"> 異國短毛貓</a></pre>
+	<pre><a href="#17"> 挪威森林貓</a></pre>
+	<pre><a href="#18"> 孟買貓</a></pre>
+	<pre><a href="#19"> 緬因貓</a></pre>
+	<pre><a href="#20"> 埃及貓</a></pre>
+	<pre><a href="#21"> 伯曼貓</a></pre>
+	<pre><a href="#22"> 斯芬克斯貓</a></pre>
+	<pre><a href="#23"> 緬甸貓</a></pre>
+	<pre><a href="#24"> 阿比西尼亞貓</a></pre>
+	<pre><a href="#25"> 新加坡貓</a></pre>
+	</h2>
+	</ul>
+	<ul>
+		<h1>
+		<li><a href="#cutt">《壽命》</a></li>
+		<p></p>
+		<li><a href="#cuttt">《行為》</a></li>
+		</h1>
+	</ul>
+	<pre><h1>&nbsp; &nbsp; &nbsp;楔子：貓作為人類的夥伴已經有了上千年的歷史，最經典的例子要屬古埃及的法老家族，他們對於貓的熱愛與現代
+人無異。不過，就如同有人說貓是人類（除了狗以外）的另一個好夥伴。現在，大約有六億隻貓生活在我們周圍，可以說算是最為常見的寵物。</h1></pre>
+	<hr>
+	<div id="cut">
+	<ul>
+		<li>
+			<h1>《貓的品種》</h1>
+		</li>
+	</ul>
+	</div>
+	<div id="1">
+		<img src="http://p3.pstatp.com/large/61610003bdaf8c71d94f" width="500" align="bottom">
+		<h2><pre>		《橘貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="2">
+		<img src="http://p1.pstatp.com/large/61640002505b3e31eab2" width="500">
+		<h2><pre>		《狸花貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="3">
+		<img src="http://p3.pstatp.com/large/616500015d4fef4a1507" width="500">
+		<h2><pre>		《奶牛貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="4">
+		<img src="http://p9.pstatp.com/large/616500015d5090f44cfb" width="500">
+		<h2><pre>		《黑貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="5">
+		<img src="http://p1.pstatp.com/large/616500015d4e5969d27c" width="500">
+		<h2><pre>		《白貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="6">
+		<img src="http://p3.pstatp.com/large/616500015d52ca991839" width="500">
+		<h2><pre>		《三花貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="7">
+		<img src="http://p9.pstatp.com/large/61600003d36045c18908" width="500">
+		<h2><pre>		《暹羅貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="8">
+		<img src="http://p9.pstatp.com/large/61600003d35f12511aa6" width="500">
+		<h2><pre>		《布偶貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="9">
+		<img src="http://p1.pstatp.com/large/616300031135d475289f" width="500">
+		<h2><pre>		《蘇格蘭摺耳貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="10">
+		<img src="http://p3.pstatp.com/large/61600003d361a05f0844" width="500">
+		<h2><pre>		《英國短毛貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="11">
+		<img src="http://p1.pstatp.com/large/61600003d3620edda3db" width="500">
+		<h2><pre>		《英國短毛加白貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="12">
+		<img src="http://p3.pstatp.com/large/616500015d54ace37e12" width="500">
+		<h2><pre>		《美國短毛貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="13">
+		<img src="http://p3.pstatp.com/large/61610003bdb0d0551ec4" width="500">
+		<h2><pre>		《美國短毛加白貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="14">
+		<img src="http://p1.pstatp.com/large/616300031136921f0a78" width="500">
+		<h2><pre>		《波斯貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="15">
+		<img src="http://p3.pstatp.com/large/616300031137e350916f" width="500">
+		<h2><pre>		《俄羅斯藍貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="16">
+		<img src="http://p1.pstatp.com/large/61600003d364146b92ed" width="500">
+		<h2><pre>		《異國短毛貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="17">
+		<img src="http://p1.pstatp.com/large/616500015d5581a56078" width="500">
+		<h2><pre>		《挪威森林貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="18">
+		<img src="http://p3.pstatp.com/large/616200038930e2606308" width="500">
+		<h2><pre>		《孟買貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="19">
+		<img src="http://p3.pstatp.com/large/61600003d3667da053e4" width="500">
+		<h2><pre>		《緬因貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="20">
+		<img src="http://p3.pstatp.com/large/61610003bdb17d5deea9" width="500">
+		<h2><pre>		《埃及貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="21">
+		<img src="http://p3.pstatp.com/large/616600014e23d66ed3a4" width="500">
+		<h2><pre>		《伯曼貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="22">
+		<img src="http://p3.pstatp.com/large/61630003113898600084" width="500">
+		<h2><pre>		《斯芬克斯貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="23">
+		<img src="http://p9.pstatp.com/large/616600014e24b603c186" width="500">
+		<h2><pre>		《緬甸貓》</pre></h2>
+	</div>
+	<hr>
+	<div id="24">
+		<img src="http://p3.pstatp.com/large/61640002505e206cdfa8" width="500">
+		<h2><pre>		《阿比西尼亞貓》</h2>
+	</div>
+	<hr>
+	<div id="25">
+		<img src="http://p3.pstatp.com/large/616500015d57764963f8" width="500">
+		<h2><pre>		《新加坡貓》</pre></h2>
+	</div>
+	<hr>
+	<article id="cutt">
+		<ul>
+			<li>
+				<h1>《貓的壽命》</h1>
+			</li>
+		</ul>
+		<h3>
+		&nbsp; &nbsp; &nbsp;理論上來說，貓咪的壽命一般在10-15歲之間。隨著社會生活水平的提高，寵物貓的壽命也得到了延長，現在更多的貓咪壽命達到15歲，甚至是更長。貓咪的壽命不僅與它的品種、遺傳等有關，也與後天的飼養條件和生活環境密切相關。
+		</h3>
+		<h3>
+		&nbsp; &nbsp; &nbsp;按照人類壽命來說，15歲的貓咪就相當於七八十歲的老人了。此時的貓咪已經非常衰老，它眼睛逐漸變得渾濁，牙齒變得發黃脫落，身體上的毛髮已經粗糙花白。身體的機能變得脆弱，新陳代謝緩慢，身體營養大量流失。經過研究發現，一般長毛貓的壽命比短毛貓的稍長，室內的寵物貓比戶外的流浪貓壽命要長，公貓比母貓的壽命稍長，此外生活健康注重運動的貓咪要比懶散臃腫的貓咪壽命稍長。
+		</h3>
+		<h3>
+		&nbsp; &nbsp; &nbsp;大部分的母貓在10-12歲的時候還能發情、正常交配，但是其懷孕的成功率大幅度下降，有些貓咪在這個年齡段就不能正常繁殖了。當然，不同個體的貓其壽命內的長短也是不一樣的，有些貓咪只能活到7、8歲或者是更短的壽命，然而有些貓咪也能活到二十幾歲，成為貓咪中不折不扣的老壽星。
+		</h3>
+		<img src="https://img.appledaily.com.tw/images/ReNews/20150625/640_dde09ba36bcc079a69a3c27659a58b4d.jpg">
+	</article>
+	<hr>
+	<article id="cuttt">
+		<ul>
+			<li>
+				<h1>《貓的行為》</h1>
+			</li>
+		</ul>
+		<h3>
+		&nbsp; &nbsp; &nbsp;就算是養過貓的人，對於貓咪無俚頭的動作還是會讓人摸不著頭緒，但其實貓咪在做出這些行為時可都是有原因的喔！
+		</h3>
+		<div id="cutttt"><h2>1.為什麼貓咪喜歡磨蹭人的臉、腳或是邊走路邊磨牆壁？</h2></div>
+		<h3>
+		&nbsp; &nbsp; &nbsp;這個動作看似在撒嬌，但有時會發現貓咪撒嬌的對象居然擴及牆壁、梳子、鞋子等非生命物體，讓人摸不著頭緒。主要原因就是貓咪並非真的在撒嬌，而是透過磨蹭分布於頭部、臉頰、下顎、側身等處的腺體，來達到氣味“標記”及“交換”的目的。
+ 		</h3>
+ 		<h3>
+		&nbsp; &nbsp; &nbsp;每隻貓咪心中都有一張利用氣味標記的“氣味地圖”，標示並劃分出遊戲、飲食、排泄、休憩等處，當貓咪磨蹭我們時，不只將自身的氣味沾染到我們身上，同時也將我們的氣味依附在自己的身上，並透過理毛、舔舐的動作來“嚐”我們的氣味，以建立彼此的信任感及親暱感，宛如人與人之間擁抱、握手、親吻的交際動作。
+		</h3>
+
+		<img src="https://cdn.hk01.com/di/media/images/564720/org/7a5b31ccd89a2360794c1ef6bf54393f.jpg/0ws2YFTJcguqJ5hF1Hp3V8ELwZfAP_rMiLU2UYi1NlE?v=w1920" width="500">
+		<hr>
+		<div id="cutttt"><h2>2.貓咪喜歡推推軟軟的肚子或是棉被、毛衣等的用意是為什麼？
+		</h2></div>
+		<h3>
+		&nbsp; &nbsp; &nbsp;這個莫名又可愛的動作主要是出自於幼貓時期的經驗，幼貓會利用雙掌去擠壓貓媽媽的乳房來吸允乳汁，這個行為主要多見於體型雖已長大、但行為表現上卻仍像是幼年時期的家貓。
+		</h3>
+		<h3>
+		&nbsp; &nbsp; &nbsp;並非每隻貓咪都會表現出這個行為，偶爾有部分貓咪在成年之後保留這個習慣，藉由模擬幼年時期吸乳的動作來獲得心靈上的慰藉，抒發情緒上的無聊、壓力或是焦慮，並希望獲得主人的關注及疼愛。貓咪除了推推、踩踏等動作，有時會把該動作代換為吸舔主人的頭髮、耳垂、眉毛等，這個行為就像是某些成年人無法改掉吸允拇指的習慣一樣，反映出另一件事情，就是貓咪需要主人的關注及愛撫。
+		</h3>
+
+		<img src="https://blog.accupass.com/wp-content/uploads/2017/03/1_120122230539_1.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>3.貓咪喜歡在半夜對著主人講話或是騷擾主人呢？
+		</h2></div>
+		<h3>
+		&nbsp; &nbsp; &nbsp;普遍來說，貓咪不像已經完全被馴化的狗兒般，作息已幾乎與人類同步，常常聽到有許多飼主抱怨養貓後睡眠品質就變得很差，不外乎就是因為常睡到半夜被家中的“夜貓子”吵醒，無法一覺到天亮。
+		</h3>
+
+		<img src="https://cdn.101mediaimage.com/img/2016/05/06/1605977011udfck.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>4.有人說貓咪呼嚕不一定是開心，也有可能是生病不舒服，是這樣子嗎？這樣我該如何分辨他的狀況呢？
+		</h2></div>
+		<h3>
+		&nbsp; &nbsp; &nbsp;貓咪的呼嚕聲聽起來非常療癒，甚至有相關研究表示呼嚕聲對飼主的身心有益，普遍認為貓咪只有在開心時會呼嚕，但事實上呼嚕聲具有其他意義及功能性。
+		</h3>
+		<h3>
+		&nbsp; &nbsp; &nbsp;通常來說，母貓會藉由呼嚕聲引導初生幼貓來找到正確的吸乳位置，並可減緩母貓在哺乳過程及生育過程中的疼痛，小貓也會藉由呼嚕聲回應母貓的梳理及餵養。當我們在撫摸、梳理家中的貓咪時，貓咪會不自覺地以呼嚕聲回應我們的動作，就像幼年時期的反應一樣。除此之外，貓咪也會透過呼嚕所發出的震動促進肌肉及骨骼生長，加速傷口癒合，並有助於情緒的穩定，達到自我慰藉功能。
+		</h3>
+		<h3>
+		&nbsp; &nbsp; &nbsp;若您發現家中的貓咪不時發出呼嚕聲，並表現出恐懼、躲藏、焦慮，而非平常愉悅、自在的模樣，您就必須將貓咪帶往動物醫院進行檢診，了解貓咪是否有潛在性的疾病及疼痛。
+		</h3>
+
+		<img src="http://3.bp.blogspot.com/__-spIZjeu-c/TOtH06BmwlI/AAAAAAAAAAU/or7Rzi5bVwA/s1600/3..jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>5.為什麼貓咪經常會翻肚肚呢？
+		</h2></div>
+		<h3>
+		<div>&nbsp; &nbsp; &nbsp;貓咪躺下來翻滾、露出肚子的模樣很可愛，但多數貓咪還是不喜歡被摸肚子，甚至有的貓咪會在你摸的時候狠狠咬你一口！原因主要有下列幾項：<p>1.現在非常的放鬆，尤其是貓咪正在“睡翻天"的時候。</p>
+		<p>2.代表信任，尤其是對特定對象或其他動物翻肚。因為肚子是最脆弱的部位，貓咪只會對信任的對象翻起肚子。
+		</p><p>3.對其他貓咪臣服。這點像是人類投降舉起雙手，代表已經沒有攻擊意圖，尤其是在多貓家庭中某些貓咪會對特定貓咪做出這個動作，意味著自己已經示弱，勿再嘗試攻擊我。</p><p>4.打架或遊戲時翻肚，代表著全面性的防守。因為貓咪打架或遊戲時，多是透過咬對方頸背部來達到壓制的目的。因此，有經驗的貓咪會透過翻肚的動作來利用四肢進行全面性的防守，讓對方沒機會掐住頸背部，並可適時翻轉逃脫。</p>
+		</div>
+
+		<img src="https://teepr.com/wp-content/uploads/2016/10/5800821a821a7.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>6.為什麼貓在捕捉到獵物之後要先玩弄一番再殺死他？
+		</h2></div>
+		&nbsp; &nbsp; &nbsp;在多數人的印象中，貓咪總是將獵物玩弄一番後才殺死，過程甚是殘忍，但事實上並非貓咪喜歡凌遲獵物，而是因為他們的捕獵技巧生疏、沒自信的緣故。
+ 		<p>
+		&nbsp; &nbsp; &nbsp;就拿家中貓咪來說，因為家貓長期被人類豢養、飲食不缺，不需捕食即有食物可以吃，故多疏於磨練捕獵技巧，有的貓咪甚至於捕獵過程中遭遇獵物抵抗就會被嚇個半死，不敢上前張口咬死獵物，只敢出貓掌拼命拍打，直到獵物昏厥、死亡，貓咪才膽顫心驚地上前咬住獵物，宣告捕獵成功。</p>
+ 		<p>
+		&nbsp; &nbsp; &nbsp;通常“玩弄”獵物的行為較常在家貓跟年幼的野貓觀察到，而野外的成貓及大型貓科動物幾乎都是撲倒獵物後就讓獵物一“口”斃命，避免獵物逃脫或是浪費不必要的體力。</p>
+
+		<img src="http://i.imgur.com/muHi8aV.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>7.貓在外面帶獵物給我是因為想要報答我？還是覺得我不會自己準備食物所已帶回來給我吃？
+		</h2></div>
+		&nbsp; &nbsp; &nbsp;想必不少人都有收過貓咪的“恐怖禮物”，像我就收到過家中貓咪贈送的大蜘蛛斷腿，當下我還以為是燒焦的火柴棒，等到細看才讓我毛骨悚然，雞皮疙瘩起滿身！而我也不時聽到飼主與我分享“禮物”內容，例如破碎的蟑螂、小老鼠的頭或是小鳥的肢體殘骸等，讓人無不膽戰心驚，卻又不忍苛責貓咪。
+ 		<p>
+		&nbsp; &nbsp; &nbsp;貓咪會有這個行為的原因，除了一般所謂“貓的報恩”之外，更主要的原因為你在家貓的眼中是一個極度沒用的獵人，不懂得如何狩獵技巧，只會食用不會動、已死透的食品。因此，貓咪只好把你當幼貓照顧，提供你已經殺死、可以直接食用的獵物，希望你不要老是因為抓不到獵物就吃一些“不新鮮”的食物或是餓肚子囉。</p>
+
+		<img src="https://www.petpetbase.com/upload/article/original/3584587216a7e82a9e72adf3fda483bd.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>8.有些貓總是會出其不意的攻擊別人，該怎麼辦？
+		</h2></div>
+		&nbsp; &nbsp; &nbsp;大多家貓會攻擊人是因為環境單調，缺乏刺激、情緒焦慮、緊迫等因素所造成，因此，您應該每天安排至少十五分鐘的遊戲時間與貓咪互動。適當的遊戲及互動不只可讓貓咪保持體態及健康，更可讓貓咪感到自信、愉悅，增進飼主與貓咪間的感情，實在是一舉數得！
+		<p>&nbsp; &nbsp; &nbsp;另外，有時貓咪的攻擊行為並非單純的情緒或行為問題，其中可能牽涉到潛在性的生理因素，如牙科疾病、中樞神經系統疾病、維生素A過多症、甲狀腺功能亢進等。因這些病徵容易被飼主忽略，並未聯想到貓咪很兇可能是因疾病引起，故未帶貓咪去動物醫院進行檢診導致病程惡化。因此，當貓咪有異常、不適當的行為時，您應先帶貓咪就診，尋求正確管道來協助他們。</p>
+
+		<img src="https://img.cnread.news/uploads/20170709/41/418F7ABB4F45w640h432.jpeg" width="500">
+		<hr>
+		<div id="cutttt"><h2>9.每次在摸家裡的貓的時候，有時他明明很開心但又會突然咬我，這是為什麼？
+		</h2></div>
+		&nbsp; &nbsp; &nbsp;不少人都有替貓咪梳毛或是輕撫貓咪時突然被咬的經驗，會有這個現象，主要是因貓咪的撫摸性攻擊行為所導致。
+		<p>&nbsp; &nbsp; &nbsp;動物行為學家們目前並不清楚撫摸性攻擊行為的機制，僅推測這個行為可能與乾燥的貓毛容易產生靜電有關。當飼主乾燥的手在貓毛摩擦多次後就容易產生靜電，貓咪被突來的靜電電到的情況下轉而攻擊人；另一個說法，是推測貓咪易對長時間的撫摸失去耐心，既使剛開始很舒服，久了就會變成了很煩人的抓揉，貓咪只好藉由咬人逼迫飼主停手。
+		</p>
+		<p>&nbsp; &nbsp; &nbsp;若家中貓咪不時發生這個行為，建議飼主應帶貓咪去動物醫院進行生理檢查，以釐清是否有潛在性的病痛；另外，有某些部位是健康的貓咪也討厭被撫摸地方，例如會陰、肚子等處，飼主應盡量避免主動去撫摸這些部位。
+		</p>
+
+		<img src="https://static.ettoday.net/images/2719/d2719885.jpg" width="500">
+		<hr>
+		<div id="cutttt"><h2>10.該怎麼讓新來的貓咪融入家庭？
+		</h2></div>
+		&nbsp; &nbsp; &nbsp;通常貓咪到一個新環境後大多都會先躲起來，觀察環境中的食物、水、便盆、及躲藏、逃生的路線位置，並將自身的氣味逐漸分布於家中，依據氣味來認識及劃分地盤，尤其是腺體已成熟的成貓更依賴此法。
+		<p>&nbsp; &nbsp; &nbsp;若家中已經先有其他貓咪存在，大多成貓初步都會排斥新進貓咪（尤其是弱勢的幼貓），待雙方熟悉對方的氣味後情況大多會改善。因此，若家中有新進貓咪，建議飼主先替新進貓咪設置一個獨立不被打擾的空間，並給予足夠的水、食物、貓砂盆，不強求與貓咪互動，待一段時間過後（數天至數週不等，視貓咪的品種、年齡、個性及健康狀況等有所區分）貓咪就會漸漸適應新的家庭環境了。
+		</p>
+
+		<img src="https://img.chinatimes.com/newsphoto/2017-10-07/656/20171007002756.jpg" width="500">
+		<hr>
+	</article>
+	<h1><a href="#top">回最上面看看可愛的貓咪！ </a></h1>
+</body>
+</html>
